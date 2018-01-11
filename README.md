@@ -1,12 +1,14 @@
 # Hi, 신짱구!
 ## welcome to JJanaggu world
 *짱구 is very cute boy*
-JJanggu's name
+JJanggu's age
 ==========
-Small
+Characteristic: 엉뚱
 ----------
-1. first 
-1. second trick
-4. third trick
+=======
+1. dad: 신영만
+1. mommy: ???
+1. younger sister: 짱아
+
 
 **~신짱구~**
