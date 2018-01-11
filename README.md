@@ -1,8 +1,7 @@
 # Hi, 신짱구!
-## hi
-*italics*
-
-Big
+## welcome to JJanaggu world
+*짱구 is very cute boy*
+JJanggu's name
 ==========
 Small
 ----------
